@@ -1,0 +1,2 @@
+# notion
+host git pages
